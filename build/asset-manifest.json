@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/desktopmodules/ealsticsearch/static/css/main.001522ea.css",
+    "main.js": "/desktopmodules/ealsticsearch/static/js/main.e7d3d13d.js",
+    "index.html": "/desktopmodules/ealsticsearch/index.html",
+    "main.001522ea.css.map": "/desktopmodules/ealsticsearch/static/css/main.001522ea.css.map",
+    "main.e7d3d13d.js.map": "/desktopmodules/ealsticsearch/static/js/main.e7d3d13d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.001522ea.css",
+    "static/js/main.e7d3d13d.js"
+  ]
+}
